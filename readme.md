@@ -11,10 +11,10 @@ Tested up to: 5.1.0
 This is a custom plugin based from Hello Dolly, the lyrics came from Haywyre's Two Fold, Pt. 2 Album: Restraint. 
 
 ▼ Follow Haywyre!
-http://www.facebook.com/Haywyre/
-http://twitter.com/Haywyremusic
-http://www.instagram.com/haywyre/
-http://www.haywy.re
+* http://www.facebook.com/Haywyre/
+* http://twitter.com/Haywyremusic
+* http://www.instagram.com/haywyre/
+* http://www.haywy.re
 
 ## Restraint Lyrics ##
 
